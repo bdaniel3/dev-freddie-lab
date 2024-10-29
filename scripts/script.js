@@ -26,7 +26,7 @@ const games = [
     gameURL: "https://gbouldin43.github.io/vigilant-giggle-david/",
     gameAuthor: "Garrett Bouldin",
     gameAbout: "Drag Mario around the gamespace to catch coins and earn points.",
-    gameRepo: "",
+    gameRepo: "https://github.com/gbouldin43/vigilant-giggle-david",
     gameGroup: "7"
   },
   {
