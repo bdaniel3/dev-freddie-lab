@@ -4,6 +4,40 @@
 // To add other people, copy and paste the gameX's
 
 const games = [
+   {
+    gameName: "Escape the Garden", 
+    gameURL: "https://baileestrait.github.io/dev-david-lab/", 
+    gameAuthor: "Bailee Strait",
+    gameAbout: "insert game description here",
+    gameGroup: "1"
+  },
+
+ {
+    gameName: "Vroom", 
+    gameURL: "https://jaxn-harvey.github.io/dev-david/", 
+    gameAuthor: "Jackson Harvey",
+    gameAbout: "insert game description here",
+    gameGroup: "1"
+  },
+
+ {
+    gameName: "Catch the Butterfly", 
+    gameURL: "https://iarcher444.github.io/dev-david-lab/", 
+    gameAuthor: "Isabella Archer",
+    gameAbout: "insert game description here",
+    gameGroup: "1"
+  },
+
+ {
+    gameName: “The Emoji game", 
+    gameURL: "https://mtrejo03.github.io/dev-david-hw/", 
+    gameAuthor: "Milly Trejo",
+    gameAbout: "insert game description here",
+    gameGroup: "1"
+  }
+
+  // split
+  
   {
     gameName: "Race Against the Clock: Dr. Cumbie's Time Tangle", 
     gameURL: "https://bdaniel3.github.io/timeTangle/", 
