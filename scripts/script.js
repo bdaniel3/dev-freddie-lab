@@ -10,7 +10,7 @@ const games = [
     gameURL: "https://bdaniel3.github.io/timeTangle/", 
     gameAuthor: "Brittney Daniel",
     gameAbout: "It's almost time for class, Drag Dr. Cumbie to the correct time.",
-    gameRepo: "",
+    gameRepo: "https://github.com/bdaniel3/timeTangle",
     gameGroup: "7"
   },
   {
