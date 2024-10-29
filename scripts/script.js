@@ -34,7 +34,7 @@ const games = [
     gameAuthor: "Milly Trejo",
     gameAbout: "insert game description here",
     gameGroup: "1"
-  }
+  },
 
   // split
   
