@@ -28,13 +28,7 @@ const games = [
     gameGroup: "1"
   },
 
- {
-    gameName: “The Emoji game", 
-    gameURL: "https://mtrejo03.github.io/dev-david-hw/", 
-    gameAuthor: "Milly Trejo",
-    gameAbout: "insert game description here",
-    gameGroup: "1"
-  },
+
 
   // split
   
