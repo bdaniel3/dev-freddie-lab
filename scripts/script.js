@@ -9,6 +9,7 @@ const games = [
     gameURL: "https://baileestrait.github.io/dev-david-lab/", 
     gameAuthor: "Bailee Strait",
     gameAbout: "insert game description here",
+    gameRepo: "",
     gameGroup: "1"
   },
 
@@ -17,6 +18,7 @@ const games = [
     gameURL: "https://jaxn-harvey.github.io/dev-david/", 
     gameAuthor: "Jackson Harvey",
     gameAbout: "insert game description here",
+    gameRepo: "",
     gameGroup: "1"
   },
 
@@ -25,6 +27,7 @@ const games = [
     gameURL: "https://iarcher444.github.io/dev-david-lab/", 
     gameAuthor: "Isabella Archer",
     gameAbout: "insert game description here",
+    gameRepo: "",
     gameGroup: "1"
   },
 
@@ -37,6 +40,7 @@ const games = [
     gameURL: "https://bdaniel3.github.io/timeTangle/", 
     gameAuthor: "Brittney Daniel",
     gameAbout: "It's almost time for class, Drag Dr. Cumbie to the correct time.",
+    gameRepo: "",
     gameGroup: "7"
   },
   {
@@ -44,6 +48,7 @@ const games = [
     gameURL: "https://allisonlacy.github.io/alligamerepo/", 
     gameAuthor: "Allison Lacy",
     gameAbout: "How many times can you click the square?",
+    gameRepo: "",
     gameGroup: "7"
   },
   {
@@ -51,6 +56,7 @@ const games = [
     gameURL: "https://gbouldin43.github.io/vigilant-giggle-david/",
     gameAuthor: "Garrett Bouldin",
     gameAbout: "Drag Mario around the gamespace to catch coins and earn points.",
+    gameRepo: "",
     gameGroup: "7"
   },
   {
@@ -58,6 +64,7 @@ const games = [
     gameURL: "https://sblakeuna.github.io/literate-octo-disco-david/",
     gameAuthor: "Spencer Blake",
     gameAbout: "Use the arrow keys to move the cow. Move 5 times to win!",
+    gameRepo: "",
     gameGroup: "7"
   }
 ];
