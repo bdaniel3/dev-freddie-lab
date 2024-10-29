@@ -34,7 +34,7 @@ const games = [
     gameURL: "https://sblakeuna.github.io/literate-octo-disco-david/",
     gameAuthor: "Spencer Blake",
     gameAbout: "Use the arrow keys to move the cow. Move 5 times to win!",
-    gameRepo: "",
+    gameRepo: "https://codepen.io/SblakeUNA/pen/VwoarLv",
     gameGroup: "7"
   }
 ];
