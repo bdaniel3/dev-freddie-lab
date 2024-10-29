@@ -18,7 +18,7 @@ const games = [
     gameURL: "https://allisonlacy.github.io/alligamerepo/", 
     gameAuthor: "Allison Lacy",
     gameAbout: "How many times can you click the square?",
-    gameRepo: "",
+    gameRepo: "https://github.com/AllisonLacy/alligamerepo",
     gameGroup: "7"
   },
   {
