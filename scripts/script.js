@@ -76,6 +76,7 @@ function generateGameCards() {
             <p class="card-text"><b>Description:</b> ${game.gameAbout}</p>
             <p class="card-text"><b>Group:</b> ${game.gameGroup}</p>
             <a href="${game.gameURL}" target="_blank" class="btn btn-primary">Play Now</a>
+            <a href="${game.gameRepo}" target="_blank" class="btn btn-primary">Source Code</a>
           </div>
         </div>
       </div>
