@@ -209,14 +209,15 @@ function generateGameCards() {
   
   games.forEach(game => {
     const card = `
-      <div class="col-12 col-sm-6 col-md-3">
+      <div class="col-12 col-sm-6 col-md-3 mb-4">
         <div class="card h-100">
           <div class="card-body">
             <h2 class="card-title">${game.gameName}</h2>
             <p class="card-text"><b>Author:</b> ${game.gameAuthor}</p>
             <p class="card-text"><b>Description:</b> ${game.gameAbout}</p>
-            <a href="${game.gameURL}" target="_blank" class="btn btn-primary">Play Now</a>
-            <a href="${game.gameRepo}" target="_blank" class="btn btn-primary">Source Code</a>
+            <div class="d-flex justify-content-between">
+            <a href="${game.gameURL}" target="_blank" class="btn btn-sm" style="background-color: #27ae60; color: white; border-color: #27ae60;">Play Now</a>
+            <a href="${game.gameRepo}" target="_blank" class="btn btn-sm" style="background-color: #e74c3c; color: white; border-color: #e74c3c;">Source Code</a>
           </div>
         </div>
       </div>
