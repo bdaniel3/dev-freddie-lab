@@ -1,7 +1,5 @@
-// Game data
+// game data
 //games is the object
-//the other two objects are card and maybe container
-// To add other people, copy and paste the gameX's
 
 const games = [
    
