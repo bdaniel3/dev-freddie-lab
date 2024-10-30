@@ -6,7 +6,7 @@
 const games = [
    
   {
-    gameName: "Race Against the Clock: Dr. Cumbie's Time Tangle", 
+    gameName: "Dr. Cumbie's Time Tangle", 
     gameURL: "https://bdaniel3.github.io/timeTangle/", 
     gameAuthor: "Brittney Daniel",
     gameAbout: "It's almost time for class, Drag Dr. Cumbie to the correct time.",
