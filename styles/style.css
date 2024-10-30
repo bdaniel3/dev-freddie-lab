@@ -26,6 +26,7 @@ body {
 
 .card-text {
   margin-bottom: 2px; /* Adjust to preferred spacing */
+  padding: 5px;
 }
 
 .btn-primary {
