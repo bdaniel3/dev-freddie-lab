@@ -21,7 +21,7 @@ const games = [
     gameName: "Mario Coin Catcher",
     gameURL: "https://gbouldin43.github.io/vigilant-giggle-david/",
     gameAuthor: "Garrett Bouldin",
-    gameAbout: "Drag Mario around the gamespace to catch coins and earn points.",
+    gameAbout: "Drag Mario around to catch coins and earn points.",
     gameRepo: "https://github.com/gbouldin43/vigilant-giggle-david",
   },
   {
@@ -51,7 +51,7 @@ const games = [
     gameName: "Catch the Butterfly", 
     gameURL: "https://iarcher444.github.io/dev-david-lab/", 
     gameAuthor: "Isabella Archer",
-    gameAbout: "Help drag the girl over to the butterfly so she can catch it and score some points!",
+    gameAbout: "Help drag the girl over to the butterfly so she can catch it!",
     gameRepo: "https://github.com/iarcher444/dev-david-lab",
   },
 
@@ -67,7 +67,7 @@ const games = [
     gameName: "Futbol Mania", 
     gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", 
     gameAuthor: "Janet Martinez",
-    gameAbout: "Want to play some soccer? Simply click the soccer ball and drag it into the goalpost and score a golazo!",
+    gameAbout: "Click the soccer ball and drag it into the goalpost and score a golazo!",
     gameRepo: "https://codepen.io/jm-2017/pen/YzmwxZj",
   },
 
@@ -75,7 +75,7 @@ const games = [
     gameName: "Slides", 
     gameURL: "https://basstbone.github.io/dev-david-hw/", 
     gameAuthor: "Sean Oliver",
-    gameAbout: "Move the game piece using arrow keys and reach the target to score points!",
+    gameAbout: "Use arrow keys and reach the target to score points!",
     gameRepo: "https://github.com/basstbone/dev-david-hw",
   },
 
