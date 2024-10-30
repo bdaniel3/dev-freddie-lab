@@ -216,8 +216,8 @@ function generateGameCards() {
             <p class="card-text"><b>Author:</b> ${game.gameAuthor}</p>
             <p class="card-text"><b>Description:</b> ${game.gameAbout}</p>
             <div class="d-flex justify-content-between">
-            <a href="${game.gameURL}" target="_blank" class="btn btn-sm" style="background-color: #27ae60; color: white; border-color: #27ae60;">Play Now</a>
-            <a href="${game.gameRepo}" target="_blank" class="btn btn-sm" style="background-color: #e74c3c; color: white; border-color: #e74c3c;">Source Code</a>
+            <a href="${game.gameURL}" target="_blank" class="btn btn-md" style="background-color: #3498db; color: white; border-color: #3498db;">Play Now</a>
+            <a href="${game.gameRepo}" target="_blank" class="btn btn-md" style="background-color: #eb984e; color: white; border-color: #eb984e">Source Code</a>
           </div>
         </div>
       </div>
