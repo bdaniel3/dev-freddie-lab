@@ -63,12 +63,12 @@ const games = [
     gameRepo: "https://github.com/mtrejo03/dev-david-hw",
   },
   
-   {
-    gameName: "Futbol Mania", 
-    gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", 
-    gameAuthor: "Janet Martinez",
-    gameAbout: "Click the soccer ball and drag it into the goalpost and score a golazo!",
-    gameRepo: "https://codepen.io/jm-2017/pen/YzmwxZj",
+{
+    gameName: "Find the Surprise!", 
+    gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", 
+    gameAuthor: "Tuesday Brown",
+    gameAbout: "Find the hidden surprise.",
+    gameRepo: "https://github.com/TuesdayAnnB/miniature-enigma-david",
   },
 
   {
@@ -191,14 +191,14 @@ const games = [
     gameAbout: "Use the rock in David's sling to knock Goliath in the head.",
     gameRepo: "https://github.com/germannnick/Dev-David-Goliath",
   },
-
-{
-    gameName: "Find the Surprise!", 
-    gameURL: "https://tuesdayannb.github.io/miniature-enigma-david/", 
-    gameAuthor: "Tuesday Brown",
-    gameAbout: "Find the hidden surprise.",
-    gameRepo: "https://github.com/TuesdayAnnB/miniature-enigma-david",
+   {
+    gameName: "Futbol Mania", 
+    gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", 
+    gameAuthor: "Janet Martinez",
+    gameAbout: "Click the soccer ball and drag it into the goalpost and score a golazo!",
+    gameRepo: "https://codepen.io/jm-2017/pen/YzmwxZj",
   },
+
 ];
 
 // Function to generate cards dynamically
